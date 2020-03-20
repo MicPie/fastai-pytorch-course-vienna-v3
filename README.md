@@ -16,6 +16,6 @@
 * [fast.ai v3 part 2 PyTorch learning group v2](https://github.com/MicPie/fastai-pytorch-course-vienna-v2)
 
 ## Others
-* [fastai v1 presentation](https://github.com/MicPie/presentations/blob/master/Presentation_fastai-introduction_29th-VDLM_20190924.pdf)
+* [General fastai v1 presentation](https://github.com/MicPie/presentations/blob/master/Presentation_fastai-introduction_29th-VDLM_20190924.pdf)
 * [fastai2 medical imaging module](https://dev.fast.ai/medical.imaging)
 
