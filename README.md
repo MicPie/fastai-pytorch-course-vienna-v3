@@ -1,5 +1,4 @@
-# fastai-pytorch-course-vienna-v3
-fastai v4 part 1, fastai v2, and PyTorch v1 Course in Vienna v3
+# fast.ai v4 part 1, fastai v2, and PyTorch v1 Course in Vienna v3
 
 Older versions of our learning group:
 * [fast.ai v3 part 1 PyTorch learning group v1](https://github.com/MicPie/fastai-pytorch-course-vienna)
