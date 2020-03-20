@@ -6,7 +6,7 @@
 * [fastai v2 library](https://github.com/fastai/fastai2) (start here to install the new fastai library)
 * [fastai v2 documentation](https://dev.fast.ai) (look here if you need help on the library, e.g., examples, functions, etc.)
 * [fast.ai book repo](https://github.com/fastai/fastbook) (for information on the library and the theory behind it)
-* [fastai publication](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/) (to get an overview of the fastai deep learning library design and the ideas behind it)
+* [fastai publication](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/) (to get an overview of the fastai library design and the ideas behind it)
 
 ## Forum
 * [Study Group in Austria (open thread)](https://forums.fast.ai/t/study-group-in-austria/26119/10)
