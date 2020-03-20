@@ -2,10 +2,10 @@
 *To be filled with information soon. Feel free to add material with pull requests.*
 
 ## fast.ai material
-* [fastai course v4 repo](https://github.com/fastai/course-v4)
-* [fastai v2 docs](https://dev.fast.ai)
-* [fastai book repo](https://github.com/fastai/fastbook)
-* [fastai publication](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/)
+* [fast.ai course v4 repo](https://github.com/fastai/course-v4) (for the course notebooks)
+* [fastai v2 documentation](https://dev.fast.ai) (if you need help on the library functions)
+* [fastai book repo](https://github.com/fastai/fastbook) (for looking into the library and the theory behind it)
+* [fastai publication](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/) (to get an overview of the fastai deep learning library design)
 
 ## Forum
 * [Study Group in Austria (open thread)](https://forums.fast.ai/t/study-group-in-austria/26119/10)
