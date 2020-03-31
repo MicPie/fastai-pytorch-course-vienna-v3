@@ -19,3 +19,4 @@
 * [General fastai v1 presentation](https://github.com/MicPie/presentations/blob/master/Presentation_fastai-introduction_29th-VDLM_20190924.pdf)
 * [fastai2 medical imaging module](https://dev.fast.ai/medical.imaging) & [older notebooks from Jeremy](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/114214) (However, these notebooks will not work out of the box, but maybe we can port them to fastai2?)
 * [TensorFlow Quantum Blog Post](https://ai.googleblog.com/2020/03/announcing-tensorflow-quantum-open.html)
+* [Learning & Blooms Taxonomoy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)
