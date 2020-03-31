@@ -15,6 +15,10 @@
 * [Paperspace](https://www.paperspace.com) (Has already a fastai2 setup which seems to be the easiest version.)
 * [Colab guide](https://github.com/seduerr91/fastAI_v4/blob/master/fastai2%20on%20colab.md) ([Colab Pro](https://colab.research.google.com/signup))
 
+## PyTorch
+* [General PyTorch Deep Learning ressources](https://github.com/MicPie/fastai-pytorch-course-vienna#general-pytorch-deep-learning-ressources)
+* [PyTorch basics](https://github.com/MicPie/fastai-pytorch-course-vienna#lesson-1---intro-to-fastai-and-pytorch)
+
 ## Older versions of our learning group:
 * [fast.ai v3 part 1 PyTorch learning group v1](https://github.com/MicPie/fastai-pytorch-course-vienna)
 * [fast.ai v3 part 2 PyTorch learning group v2](https://github.com/MicPie/fastai-pytorch-course-vienna-v2)
