@@ -18,6 +18,7 @@
 ## PyTorch
 * [General PyTorch Deep Learning ressources](https://github.com/MicPie/fastai-pytorch-course-vienna#general-pytorch-deep-learning-ressources)
 * [PyTorch basics](https://github.com/MicPie/fastai-pytorch-course-vienna#lesson-1---intro-to-fastai-and-pytorch)
+* [PyTorch Hub](https://pytorch.org/hub/research-models)
 
 ## Older versions of our learning group:
 * [fast.ai v3 part 1 PyTorch learning group v1](https://github.com/MicPie/fastai-pytorch-course-vienna)
