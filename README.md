@@ -11,6 +11,10 @@
 ## Forum
 * [Study Group in Austria (open thread)](https://forums.fast.ai/t/study-group-in-austria/26119/10)
 
+## Setup
+* [Colab guide](https://github.com/seduerr91/fastAI_v4/blob/master/fastai2%20on%20colab.md)
+* [Paperspace](https://www.paperspace.com) (Has already a fastai2 setup which seems to be the easiest version.)
+
 ## Older versions of our learning group:
 * [fast.ai v3 part 1 PyTorch learning group v1](https://github.com/MicPie/fastai-pytorch-course-vienna)
 * [fast.ai v3 part 2 PyTorch learning group v2](https://github.com/MicPie/fastai-pytorch-course-vienna-v2)
