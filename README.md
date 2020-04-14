@@ -25,7 +25,7 @@
 * [fast.ai v3 part 2 PyTorch learning group v2](https://github.com/MicPie/fastai-pytorch-course-vienna-v2)
 
 ## Other fastai materials (colab resources and in-depth topics)
-* [A walk with fastai2 - Vision - Study Group and Online Lectures Megathread] (https://forums.fast.ai/t/a-walk-with-fastai2-vision-study-group-and-online-lectures-megathread/59929)
+* [A walk with fastai2 - Vision - Study Group and Online Lectures Megathread](https://forums.fast.ai/t/a-walk-with-fastai2-vision-study-group-and-online-lectures-megathread/59929)
 
 ## Others
 * [General fastai v1 presentation](https://github.com/MicPie/presentations/blob/master/Presentation_fastai-introduction_29th-VDLM_20190924.pdf)
