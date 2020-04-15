@@ -1,5 +1,16 @@
 # fast.ai v4 part 1 and PyTorch v1 Course in Vienna v3
-*To be filled with information soon. Feel free to add material with pull requests.*
+
+# Learning group meetup
+
+## 13.04.2020
+ * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+ * [View & permute?](https://github.com/MicPie/pytorch/blob/master/view_and_permute.ipynb)
+ * [Troubleshooting Deep Neural - Networks A Field Guide to Fixing Your Model](http://josh-tobin.com/troubleshooting-deep-neural-networks.html) [(PDF)](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
+ * [Full stack deep learning](https://fullstackdeeplearning.com)
+ * [ReNet publication](https://arxiv.org/abs/1512.03385)
+ * [cs231n - Neural Networks and Backpropagation slidedeck](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture04.pdf)
+
+# Additional material
 
 ## fastai material
 * [fast.ai course v4 repo](https://github.com/fastai/course-v4) (here you find the course notebooks)
@@ -7,6 +18,7 @@
 * [fastai v2 documentation](https://dev.fast.ai) (look here if you need help on the library, e.g., examples, functions, etc.)
 * [fast.ai book repo](https://github.com/fastai/fastbook) (for information on the library and the theory behind it)
 * [fastai publication](https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/) (to get an overview of the fastai library design and the ideas behind it)
+* [A walk with fastai2 - Vision - Study Group and Online Lectures Megathread](https://forums.fast.ai/t/a-walk-with-fastai2-vision-study-group-and-online-lectures-megathread/59929)
 
 ## Forum
 * [Study Group in Austria (open thread)](https://forums.fast.ai/t/study-group-in-austria/26119/10)
@@ -23,9 +35,6 @@
 ## Older versions of our learning group:
 * [fast.ai v3 part 1 PyTorch learning group v1](https://github.com/MicPie/fastai-pytorch-course-vienna)
 * [fast.ai v3 part 2 PyTorch learning group v2](https://github.com/MicPie/fastai-pytorch-course-vienna-v2)
-
-## Other fastai materials (colab resources and in-depth topics)
-* [A walk with fastai2 - Vision - Study Group and Online Lectures Megathread](https://forums.fast.ai/t/a-walk-with-fastai2-vision-study-group-and-online-lectures-megathread/59929)
 
 ## Others
 * [General fastai v1 presentation](https://github.com/MicPie/presentations/blob/master/Presentation_fastai-introduction_29th-VDLM_20190924.pdf)
