@@ -1,4 +1,5 @@
 # fast.ai v4 part 1 and PyTorch v1 Course in Vienna v3
+Repository of fast.ai v4 part 1 and PyTorch v1 Course in Vienna v3.
 
 ## Learning group meetup
 
